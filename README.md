@@ -1,2 +1,2 @@
 # Java_logical_Codding_Practice
-Logical Questions mostly asked in the Interview
+Logical coding questions those are most commonly asked in interview Questions
