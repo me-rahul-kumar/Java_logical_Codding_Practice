@@ -4,8 +4,11 @@ public class B_BinarySearch {
 	
 	public static void main(String[] args) {
 		
-		int a[]= {12,15,18,88,26,27};
-		int key=18;
+		//for binary search array must be in sorted order
+		
+		int a[]= {12,13,14,15,16,17};
+		
+		int key=16;
 		boolean flag=false;
 		int lowerBound=0;
 		int HigerBound=a.length-1;
